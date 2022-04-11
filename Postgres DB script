@@ -1,0 +1,31 @@
+--Create database
+CREATE DATABASE "beckn-api"
+
+--drop table if exists
+drop table if exists api_audit;
+drop table if exists api_audit_error;
+
+--create table api_audit
+create table api_audit(
+	message_id varchar(50) not null,
+	transaction_id varchar(50) not null,
+	action varchar(50) not null,
+	domain varchar(50) not null,
+	core_version varchar(50) not null,
+	created_on timestamp(6) not null,
+	json json not null,
+	status varchar(1) not null,
+	CONSTRAINT pk_api_audit PRIMARY KEY(message_id)
+);
+
+--create table api_audit_error
+create table api_audit_error(
+	id varchar(50) not null,
+	schema_class varchar(50) not null,
+	error text,
+	json json not null,
+	created_on timestamp(6) not null,
+	CONSTRAINT pk_api_audit_error PRIMARY KEY(id)
+);
+
+commit;
