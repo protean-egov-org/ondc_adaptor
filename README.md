@@ -10,6 +10,7 @@ This page will contains the details of ONDC APIs Adaptors developed by NSDL eGov
 6. [Configuration Details](#paragraph1)
 7. [NSDL BG Configuration Details](#paragraph1)
 8. [NSDL Sandbox](#paragraph1)
+9. Licensing Term
 
 # Version History
 
@@ -637,3 +638,7 @@ As mentioned in section 7, provide details to get register with BG registry node
 The end points for Registry Node are as below: <br />
 a. https://pilot-gateway-1.beckn.nsdl.co.in/subscribe <br />
 b. https://pilot-gateway-1.beckn.nsdl.co.in/lookup
+
+# 9. Licensing Term
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/)
