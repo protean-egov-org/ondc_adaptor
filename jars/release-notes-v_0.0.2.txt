@@ -1,0 +1,5 @@
+24-04-2022: Version 0.0.2 release
+---------------------------------
+Below are the new features and bug-fixes as part of this release:
+1) Adaptor now handles search request from gateway. There is a change in the json config file to acheive the same. Please refer to it for more information.
+2) Schema validation has been disabled. Only Context of every request will be validated.
