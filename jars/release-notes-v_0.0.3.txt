@@ -1,0 +1,5 @@
+09-05-2022: Version 0.0.3 release
+---------------------------------
+Below are the new features and bug-fixes as part of this release:
+1. fix for http retry and timeout.
+2. fix to allow error to be part of reply as per ondc schema for all the api's
