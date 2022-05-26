@@ -1,0 +1,5 @@
+26-05-2022: Version 0.0.5 release
+---------------------------------
+Below are the new features and bug-fixes as part of this release:
+1. gzip implemented for incoming and outging requests.
+2. new parameters added to the spring boot yml file
