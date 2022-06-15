@@ -2,15 +2,15 @@
 This page will contains the details of ONDC APIs Adaptors developed by NSDL eGov complied with Beckn Protocol
 
 # Table of contents
-1. [Introduction](#introduction)
-2. [ONDC API Adaptor Flow](#paragraph1)
-3. [Deployment](#paragraph1)
-4. [Postgres DB script](#paragraph1)
-5. [Sample Postman Collection](#paragraph1)
-6. [Configuration Details](#paragraph1)
-7. [NSDL BG Configuration Details](#paragraph1)
-8. [NSDL Sandbox](#paragraph1)
-9. Licensing Term
+1. [Introduction](#1-introduction)
+2. [ONDC API Adaptor Flow](#2-ondc-api-adaptor-flow)
+3. [Deployment](#3-deployment)
+4. [Postgres DB script](#4-postgres-db-script)
+5. [Sample Postman Collection](#5-sample-postman-collection)
+6. [Configuration Details](#6-configuration-details)
+7. [NSDL BG Configuration Details](#7-bg---gateway-noderegistry-node-configuration-details)
+8. [NSDL Sandbox](#8-nsdl-sandbox)
+9. [Licensing Term](#9-licensing-term)
 
 # Version History
 
@@ -641,4 +641,4 @@ b. https://pilot-gateway-1.beckn.nsdl.co.in/lookup
 
 # 9. Licensing Term
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
