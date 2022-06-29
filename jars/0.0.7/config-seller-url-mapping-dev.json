@@ -1,0 +1,10 @@
+[
+	{
+		"subscriber_id": "ondc_seller_1",
+		"url": "http://localhost:8088/seller/adaptor/4522"
+	},
+	{
+		"subscriber_id": "ondc_seller_2",
+		"url": "http://localhost:8088/seller/adaptor/4523"
+	}
+]

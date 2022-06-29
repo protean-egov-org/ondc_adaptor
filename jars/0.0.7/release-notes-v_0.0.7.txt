@@ -1,0 +1,5 @@
+29-06-2022: Version 0.0.7 release
+---------------------------------
+Below are the new features and bug-fixes as part of this release:
+1. fix for making each seller url uniques.
+2. providing a switch in yml file to control lookup cache loading on start
